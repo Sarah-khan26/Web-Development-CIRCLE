@@ -1,0 +1,19 @@
+
+    .first-div p{
+       background-color: red;
+    
+    } 
+    .second-div> p{
+        background-color: blue;
+    }
+
+    .third-div~ p{ 
+        background-color:green;
+    }
+
+    .fourth-div +p{
+        background-color: indianred;
+    }
+
+    a.yellow{
+        background-color: yellow;
